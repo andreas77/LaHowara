@@ -38,10 +38,11 @@
 % input/chessboard          - Small-scale scenario
 % input/mininetwork         - Small-scale sceanario for calibration
 % input/zurichCity          - Real-world inner-city Zurich scenario
+% output                    - Simulation results for the chessboard
 % toolboxes                 - Containing XML toolbox
 % calibration               - Contains functions for calibration of decision models. Not used during simulation.
 % doc                       - Installation and running information. Contains readme.txt and report.pdf
 %                        
 %
-% A. Horni, L. Montini, R.A. Waraich
+% A. Horni, L. Montini, R. Waraich
 % Open Source

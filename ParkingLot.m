@@ -42,20 +42,21 @@ classdef ParkingLot < handle & SpatialElement
         
         function [removedAgents] = handleAllAgents(this, currentTime)
             removedAgents = Agent.empty(0,0);
+            removedAgentsIndexes = [];
             for i=1:length(this.agents)
                 agent = this.agents(i);
                 if (agent.leaveParkingLot(currentTime)) 
-                    this.removeAgent(agent)
+                    removedAgentsIndexes = [this.getAgentIndex(agent) removedAgentsIndexes];
                     removedAgents = [agent removedAgents];
                 end
             end
+            this.agents(removedAgentsIndexes) = [];
         end   
     end
     
     methods (Access = private)
-         function removeAgent(this, agent)
+        function index = getAgentIndex(this, agent)
             index = find(this.agents == agent);
-            this.agents(index) = [];  
         end
     end
 end
