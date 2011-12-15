@@ -1,0 +1,22 @@
+<agents>
+
+	<!-- example for parking agent with two trips. If agent wants to park once more in the study area we need to create another agent -->
+        <agent>	
+			<id>1</id>
+			<tripStartTime>61200</tripStartTime>
+			<route_to>node11 n13 n1</route_to>	
+			<actType>shop</actType>
+			<actDur>1200</actDur>
+			<route_away>n1 n13 node11</route_away>	
+        </agent>  
+        
+        <agent>	
+			<id>2</id>
+			<tripStartTime>61200</tripStartTime>
+			<route_to>21 23 2</route_to>	
+			<actType>shop</actType>
+			<actDur>1200</actDur>
+			<route_away>2 23 21</route_away>	
+        </agent>    
+
+</agents>

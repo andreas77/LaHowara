@@ -1,0 +1,4083 @@
+<parkinglots>
+	<parkinglot>
+		<id>sp-4</id>
+		<x>682929.2864565598</x>
+		<y>247687.56092215737</y>
+		<size>343.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1126507</id>
+		<x>684315.2440000001</x>
+		<y>246856.952</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-382605</id>
+		<x>682622.4199999999</x>
+		<y>246821.985</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-979504</id>
+		<x>683674.3125</x>
+		<y>246669.22</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-244907</id>
+		<x>682489.2949999999</x>
+		<y>247114.2</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1109507</id>
+		<x>684167.2299999999</x>
+		<y>246903.93285714282</y>
+		<size>7.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-823515</id>
+		<x>684063.62</x>
+		<y>246291.44</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-823507</id>
+		<x>684081.03</x>
+		<y>246297.124</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1109607</id>
+		<x>684313.31305</x>
+		<y>247018.42429999998</y>
+		<size>20.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1126407</id>
+		<x>684286.0349999999</x>
+		<y>246864.34</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-382705</id>
+		<x>682640.2333333333</x>
+		<y>246801.5266666667</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1040807</id>
+		<x>683913.7566666667</x>
+		<y>246169.21666666667</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1126607</id>
+		<x>684398.7437</x>
+		<y>246744.0819</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-979604</id>
+		<x>683686.1433333333</x>
+		<y>246679.12666666668</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-382505</id>
+		<x>682592.4366666666</x>
+		<y>246856.08833333335</y>
+		<size>6.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-244807</id>
+		<x>682511.8600000001</x>
+		<y>247131.765</y>
+		<size>6.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-979704</id>
+		<x>683691.182</x>
+		<y>246668.72000000003</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1109707</id>
+		<x>684370.415</x>
+		<y>246945.71</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-823807</id>
+		<x>684151.005</x>
+		<y>246320.735</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1109807</id>
+		<x>684367.7733333334</x>
+		<y>246924.14333333334</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1126707</id>
+		<x>684362.8491142858</x>
+		<y>246791.60914285717</y>
+		<size>14.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-382915</id>
+		<x>682558.175</x>
+		<y>246855.81</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-245207</id>
+		<x>682465.72</x>
+		<y>247001.32666666666</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-823707</id>
+		<x>684159.875</x>
+		<y>246328.415</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-979804</id>
+		<x>683698.473</x>
+		<y>246668.96899999998</y>
+		<size>10.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1126907</id>
+		<x>684316.88</x>
+		<y>246886.66</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-245007</id>
+		<x>682489.87</x>
+		<y>247093.616</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1109907</id>
+		<x>684304.59</x>
+		<y>246963.2475</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-382805</id>
+		<x>682659.0549999999</x>
+		<y>246779.94</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-245107</id>
+		<x>682504.9900000001</x>
+		<y>247074.56999999998</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-979904</id>
+		<x>683706.6933333334</x>
+		<y>246674.91</y>
+		<size>9.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-824007</id>
+		<x>684044.9199999999</x>
+		<y>246350.62</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1109007</id>
+		<x>684019.7333333334</x>
+		<y>247100.06999999998</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-419903</id>
+		<x>684362.8</x>
+		<y>247117.83500000002</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1127007</id>
+		<x>684337.135</x>
+		<y>246906.41999999998</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1041207</id>
+		<x>684006.1966666668</x>
+		<y>246134.09222222224</y>
+		<size>9.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-245407</id>
+		<x>682506.4166666666</x>
+		<y>247053.17999999996</y>
+		<size>6.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-140307</id>
+		<x>683740.1199999999</x>
+		<y>247722.9911111111</y>
+		<size>9.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-979004</id>
+		<x>683669.904</x>
+		<y>246653.694</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-382204</id>
+		<x>682555.08</x>
+		<y>246814.50999999998</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1109107</id>
+		<x>684003.2825</x>
+		<y>247084.945</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1127107</id>
+		<x>684363.6125</x>
+		<y>246890.99</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1041307</id>
+		<x>684010.58875</x>
+		<y>246143.22875</y>
+		<size>8.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-245307</id>
+		<x>682484.6599999999</x>
+		<y>247035.535</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1109207</id>
+		<x>683976.07</x>
+		<y>247071.685</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1041403</id>
+		<x>684055.0700000001</x>
+		<y>246161.945</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-979204</id>
+		<x>683677.665</x>
+		<y>246660.24250000002</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1040907</id>
+		<x>683872.658</x>
+		<y>246149.8</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-420203</id>
+		<x>684287.2320000001</x>
+		<y>247141.814</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-824207</id>
+		<x>684027.52</x>
+		<y>246362.59</y>
+		<size>1.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-382405</id>
+		<x>682595.245</x>
+		<y>246863.465</y>
+		<size>6.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1127207</id>
+		<x>684382.9839999999</x>
+		<y>246873.198</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-979304</id>
+		<x>683680.895</x>
+		<y>246662.10499999998</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1041007</id>
+		<x>683902.9690909091</x>
+		<y>246094.6009090909</y>
+		<size>11.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1109407</id>
+		<x>684191.7</x>
+		<y>246919.405</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1127407</id>
+		<x>684411.9533333333</x>
+		<y>246831.48666666666</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-979404</id>
+		<x>683662.695</x>
+		<y>246660.055</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-245604</id>
+		<x>682640.655</x>
+		<y>247137.19</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1127307</id>
+		<x>684401.25</x>
+		<y>246850.50333333333</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-824103</id>
+		<x>683994.9</x>
+		<y>246349.036</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-243904</id>
+		<x>682994.1</x>
+		<y>247251.56</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-824507</id>
+		<x>684116.2180000001</x>
+		<y>246406.50400000002</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-421403</id>
+		<x>684215.4</x>
+		<y>247146.59</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1108507</id>
+		<x>684159.33</x>
+		<y>247050.29333333333</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-243804</id>
+		<x>682972.09</x>
+		<y>247237.02000000002</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-381507</id>
+		<x>682454.99</x>
+		<y>246677.99</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-421602</id>
+		<x>683959.1633333333</x>
+		<y>247223.24333333332</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-421504</id>
+		<x>683922.1975</x>
+		<y>247267.46125</y>
+		<size>16.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1041803</id>
+		<x>683971.8999999999</x>
+		<y>246184.83</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-381907</id>
+		<x>682532.142</x>
+		<y>246802.206</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-140107</id>
+		<x>683741.238</x>
+		<y>247737.866</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1041507</id>
+		<x>684052.2789666667</x>
+		<y>246105.035</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1404</id>
+		<x>683885.72</x>
+		<y>247578.73875000002</y>
+		<size>8.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1108807</id>
+		<x>684082.5549999999</x>
+		<y>247139.69</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-244104</id>
+		<x>683040.2016666667</x>
+		<y>247271.79</y>
+		<size>6.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-381804</id>
+		<x>682528.175</x>
+		<y>246685.21500000003</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1041607</id>
+		<x>684008.935</x>
+		<y>246077.72999999998</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1504</id>
+		<x>682886.9642857143</x>
+		<y>247125.12999999998</y>
+		<size>7.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1108907</id>
+		<x>684058.72125</x>
+		<y>247119.90749999997</y>
+		<size>8.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-244004</id>
+		<x>683034.782</x>
+		<y>247260.1</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-244404</id>
+		<x>682564.74</x>
+		<y>247177.33000000002</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1042204</id>
+		<x>684016.9541666667</x>
+		<y>246261.54666666666</y>
+		<size>12.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-980004</id>
+		<x>683711.1408333333</x>
+		<y>246682.005</y>
+		<size>12.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-421103</id>
+		<x>684148.7800000001</x>
+		<y>247199.3966666667</y>
+		<size>6.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-139505</id>
+		<x>683838.33</x>
+		<y>247406.61</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1011307</id>
+		<x>682732.3085714286</x>
+		<y>246284.39285714287</y>
+		<size>7.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1108207</id>
+		<x>684069.6726666667</x>
+		<y>247003.67926666667</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-381004</id>
+		<x>682542.63</x>
+		<y>246673.88</y>
+		<size>1.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-824904</id>
+		<x>683975.1816666668</x>
+		<y>246449.09333333335</y>
+		<size>6.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-139404</id>
+		<x>683902.5225</x>
+		<y>247531.28499999997</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1108307</id>
+		<x>684076.5933000001</x>
+		<y>247010.07105</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-244704</id>
+		<x>682543.3016666666</x>
+		<y>247131.525</y>
+		<size>6.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1011707</id>
+		<x>682741.002</x>
+		<y>246222.86399999997</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-381407</id>
+		<x>682483.52</x>
+		<y>246704.43000000002</y>
+		<size>6.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-421203</id>
+		<x>684124.0457142858</x>
+		<y>247172.60000000003</y>
+		<size>7.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1011607</id>
+		<x>682686.5183333333</x>
+		<y>246301.47166666668</y>
+		<size>6.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-244604</id>
+		<x>682541.23</x>
+		<y>247154.05</y>
+		<size>1.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-825107</id>
+		<x>683988.61</x>
+		<y>246484.3675</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-381304</id>
+		<x>682510.97</x>
+		<y>246714.78999999998</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-139705</id>
+		<x>683823.815</x>
+		<y>247391.68</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-421303</id>
+		<x>684199.502</x>
+		<y>247177.448</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1042103</id>
+		<x>684012.1140000001</x>
+		<y>246198.68</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1108407</id>
+		<x>684137.425</x>
+		<y>247043.56</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1011507</id>
+		<x>682650.875</x>
+		<y>246298.615</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-244504</id>
+		<x>682549.06</x>
+		<y>247161.56</y>
+		<size>1.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-825204</id>
+		<x>684073.25</x>
+		<y>246480.77</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-381204</id>
+		<x>682523.4774999999</x>
+		<y>246708.06999999998</y>
+		<size>8.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-242704</id>
+		<x>682854.2350000001</x>
+		<y>247133.49</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1007712</id>
+		<x>682751.49</x>
+		<y>246462.68</y>
+		<size>1.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-242804</id>
+		<x>682870.726</x>
+		<y>247161.936</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1007707</id>
+		<x>682740.79</x>
+		<y>246491.42545454548</y>
+		<size>11.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-89907</id>
+		<x>683996.3125</x>
+		<y>246031.32</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1007804</id>
+		<x>682619.0492</x>
+		<y>246559.469</y>
+		<size>1.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-90003</id>
+		<x>684024.5466666667</x>
+		<y>246024.47999999998</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-242904</id>
+		<x>682817.29</x>
+		<y>247179.90333333332</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-825504</id>
+		<x>684121.585</x>
+		<y>246436.365</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-825704</id>
+		<x>683924.142</x>
+		<y>246511.936</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1007904</id>
+		<x>682628.25122</x>
+		<y>246599.25491</y>
+		<size>10.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-367604</id>
+		<x>682752.4188888889</x>
+		<y>246229.74444444443</y>
+		<size>9.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-243004</id>
+		<x>682804.1000000001</x>
+		<y>247192.74</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-367505</id>
+		<x>682772.0999999999</x>
+		<y>246314.3466666667</y>
+		<size>15.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-825604</id>
+		<x>683900.865</x>
+		<y>246495.70500000002</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1354704</id>
+		<x>683677.6</x>
+		<y>247620.7275</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-89807</id>
+		<x>683957.845</x>
+		<y>246018.95500000002</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-825804</id>
+		<x>683971.9216666666</x>
+		<y>246520.77666666664</y>
+		<size>6.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-243104</id>
+		<x>682849.9149999999</x>
+		<y>247204.49499999997</y>
+		<size>6.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1008010</id>
+		<x>682708.1333333333</x>
+		<y>246589.52</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1354504</id>
+		<x>683736.58</x>
+		<y>247520.07</y>
+		<size>1.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1008110</id>
+		<x>682891.37</x>
+		<y>246526.68000000002</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1354604</id>
+		<x>683652.4644444443</x>
+		<y>247660.23777777774</y>
+		<size>9.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-367405</id>
+		<x>682819.8925</x>
+		<y>246316.8</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-243204</id>
+		<x>682870.2</x>
+		<y>247186.565</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1043407</id>
+		<x>684203.0728571428</x>
+		<y>246278.84000000003</y>
+		<size>7.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1008206</id>
+		<x>682813.36</x>
+		<y>246477.05499999996</y>
+		<size>6.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-825907</id>
+		<x>683966.215</x>
+		<y>246517.45666666667</y>
+		<size>6.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1008306</id>
+		<x>682820.3875000001</x>
+		<y>246481.18000000002</y>
+		<size>8.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-826104</id>
+		<x>684080.9859999999</x>
+		<y>246523.648</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-826007</id>
+		<x>683967.45</x>
+		<y>246550.365</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1043310</id>
+		<x>684147.6566666666</x>
+		<y>246179.80333333334</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-243504</id>
+		<x>682925.95</x>
+		<y>247266.65</y>
+		<size>1.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1008406</id>
+		<x>682794.12</x>
+		<y>246516.11000000004</y>
+		<size>11.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1354204</id>
+		<x>683524.0549999999</x>
+		<y>247728.72</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1008506</id>
+		<x>682798.2369230769</x>
+		<y>246526.59923076924</y>
+		<size>13.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-243604</id>
+		<x>682949.8</x>
+		<y>247241.305</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-243704</id>
+		<x>682977.6299999999</x>
+		<y>247228.7</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1008606</id>
+		<x>682763.2833333333</x>
+		<y>246572.8075</y>
+		<size>12.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1354104</id>
+		<x>683553.38</x>
+		<y>247718.12999999998</y>
+		<size>6.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-826407</id>
+		<x>684180.13</x>
+		<y>246382.31</y>
+		<size>1.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1008704</id>
+		<x>682774.0237499999</x>
+		<y>246576.06374999997</y>
+		<size>8.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1043907</id>
+		<x>684180.1950000001</x>
+		<y>246334.7425</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-241704</id>
+		<x>682931.405</x>
+		<y>247107.4525</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1043807</id>
+		<x>684066.04</x>
+		<y>246222.155</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-826507</id>
+		<x>684192.65</x>
+		<y>246386.72499999998</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-368207</id>
+		<x>682613.8275</x>
+		<y>246290.73</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-241804</id>
+		<x>682911.415</x>
+		<y>247103.375</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-242004</id>
+		<x>682877.1375000001</x>
+		<y>247160.145</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1043707</id>
+		<x>684087.3366666666</x>
+		<y>246234.14333333334</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1043607</id>
+		<x>684115.3633333333</x>
+		<y>246244.38</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-368402</id>
+		<x>682691.7799999999</x>
+		<y>246310.05999999997</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-826807</id>
+		<x>684210.6599999999</x>
+		<y>246424.866</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1043507</id>
+		<x>684133.75</x>
+		<y>246251.33000000002</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-368504</id>
+		<x>682712.40125</x>
+		<y>246365.52500000002</y>
+		<size>8.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-242104</id>
+		<x>682911.5675</x>
+		<y>247148.86625</y>
+		<size>8.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-367807</id>
+		<x>682624.1533333334</x>
+		<y>246313.84</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1370201</id>
+		<x>683809.39</x>
+		<y>246790.09</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1354904</id>
+		<x>683629.0</x>
+		<y>247703.7</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1044407</id>
+		<x>684057.1971428571</x>
+		<y>246426.99000000002</y>
+		<size>14.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-242202</id>
+		<x>682972.8485714287</x>
+		<y>247093.8742857143</y>
+		<size>7.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1370212</id>
+		<x>683805.95</x>
+		<y>246793.89</y>
+		<size>1.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-383004</id>
+		<x>682556.415</x>
+		<y>246835.625</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-383204</id>
+		<x>682499.3399999999</x>
+		<y>246962.88999999998</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1044307</id>
+		<x>684068.8500000001</x>
+		<y>246382.87000000002</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-242404</id>
+		<x>682932.882</x>
+		<y>247145.77400000003</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1370304</id>
+		<x>683272.892</x>
+		<y>246916.359</y>
+		<size>10.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-242304</id>
+		<x>682980.0571428571</x>
+		<y>247103.38571428575</y>
+		<size>7.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1354812</id>
+		<x>683681.13</x>
+		<y>247627.43</y>
+		<size>1.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-367707</id>
+		<x>682799.9745454545</x>
+		<y>246188.75272727272</y>
+		<size>11.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-242504</id>
+		<x>682891.9966666667</x>
+		<y>247183.42</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1044102</id>
+		<x>684038.6566666667</x>
+		<y>246288.25</y>
+		<size>6.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-368107</id>
+		<x>682590.4900000001</x>
+		<y>246284.77333333332</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1370512</id>
+		<x>683313.4033333333</x>
+		<y>247069.58</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1355110</id>
+		<x>683601.9712500001</x>
+		<y>247757.68375000003</y>
+		<size>8.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-242604</id>
+		<x>682844.256</x>
+		<y>247131.82599999997</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1044007</id>
+		<x>684119.94</x>
+		<y>246310.04</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1044507</id>
+		<x>684046.685</x>
+		<y>246376.805</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1113907</id>
+		<x>684261.2202249999</x>
+		<y>247308.67375000002</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1044607</id>
+		<x>684235.112</x>
+		<y>246446.562</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-241102</id>
+		<x>683013.96</x>
+		<y>247156.57</y>
+		<size>1.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-240904</id>
+		<x>682990.735</x>
+		<y>247197.77000000002</y>
+		<size>6.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-241002</id>
+		<x>683026.34</x>
+		<y>247158.20999999996</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1404007</id>
+		<x>683984.7633333333</x>
+		<y>246099.43666666665</y>
+		<size>6.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1044807</id>
+		<x>684246.15</x>
+		<y>246468.39</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1403904</id>
+		<x>683922.255</x>
+		<y>246208.6233333333</y>
+		<size>12.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1044907</id>
+		<x>684215.4720000001</x>
+		<y>246464.972</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-820204</id>
+		<x>683863.45</x>
+		<y>246329.745</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1045007</id>
+		<x>684191.855</x>
+		<y>246492.03</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-241604</id>
+		<x>682934.8466666667</x>
+		<y>247101.41333333333</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-820104</id>
+		<x>683879.28</x>
+		<y>246301.21</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1113507</id>
+		<x>684172.0183333334</x>
+		<y>247453.12666666668</y>
+		<size>6.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-820003</id>
+		<x>683913.8520000001</x>
+		<y>246284.43199999997</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-975314</id>
+		<x>682971.26</x>
+		<y>247450.62</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-241504</id>
+		<x>682910.2233333333</x>
+		<y>247081.51333333334</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-241302</id>
+		<x>683033.54</x>
+		<y>247136.07</y>
+		<size>1.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-377904</id>
+		<x>682986.1950000001</x>
+		<y>246968.4825</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-241202</id>
+		<x>683023.75</x>
+		<y>247146.17</y>
+		<size>1.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1123607</id>
+		<x>684039.0166666667</x>
+		<y>246808.75</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-595911</id>
+		<x>682813.6171428572</x>
+		<y>246078.21571428567</y>
+		<size>7.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1112907</id>
+		<x>684077.825</x>
+		<y>247524.595</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-976704</id>
+		<x>683319.19</x>
+		<y>246904.975</y>
+		<size>8.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-240104</id>
+		<x>683321.5325</x>
+		<y>246980.33000000002</y>
+		<size>8.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-377804</id>
+		<x>682950.225</x>
+		<y>246946.59</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-820704</id>
+		<x>683775.29</x>
+		<y>246521.99</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-377704</id>
+		<x>682970.64</x>
+		<y>246907.72999999998</y>
+		<size>9.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1123807</id>
+		<x>684153.0970000001</x>
+		<y>246738.50700000004</y>
+		<size>10.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-377604</id>
+		<x>683010.9450000001</x>
+		<y>246875.825</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-976804</id>
+		<x>683323.184</x>
+		<y>247032.546</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1113007</id>
+		<x>684012.9800000001</x>
+		<y>247484.2657142857</y>
+		<size>7.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-117304</id>
+		<x>683251.7409523809</x>
+		<y>247662.960952381</y>
+		<size>21.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-820403</id>
+		<x>683954.03</x>
+		<y>246295.62800000003</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-976502</id>
+		<x>683551.155</x>
+		<y>247711.56</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-595606</id>
+		<x>682890.185</x>
+		<y>245995.6225</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-377504</id>
+		<x>682977.785</x>
+		<y>246871.725</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-239802</id>
+		<x>683284.75</x>
+		<y>247057.61</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-377404</id>
+		<x>682942.7854545453</x>
+		<y>246840.45909090908</y>
+		<size>11.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-820304</id>
+		<x>683871.8025</x>
+		<y>246298.9</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1236112</id>
+		<x>683261.63</x>
+		<y>247767.235</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-117002</id>
+		<x>683189.36</x>
+		<y>247719.78</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-595406</id>
+		<x>682873.88</x>
+		<y>246018.927</y>
+		<size>10.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1124104</id>
+		<x>684218.9733333333</x>
+		<y>246667.04166666666</y>
+		<size>6.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-595306</id>
+		<x>682871.9777777777</x>
+		<y>246047.87</y>
+		<size>9.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-821004</id>
+		<x>683806.592</x>
+		<y>246529.258</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-377204</id>
+		<x>682786.88</x>
+		<y>246867.86000000002</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-240404</id>
+		<x>683257.696</x>
+		<y>247021.02999999997</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-595206</id>
+		<x>682870.8155555556</x>
+		<y>246075.2411111111</y>
+		<size>9.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-820904</id>
+		<x>683822.16</x>
+		<y>246543.95500000002</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-116804</id>
+		<x>683199.9450000001</x>
+		<y>247739.245</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-595106</id>
+		<x>682869.1366666667</x>
+		<y>246102.93444444446</y>
+		<size>9.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1123907</id>
+		<x>684114.4464285715</x>
+		<y>246765.92785714287</y>
+		<size>14.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-240304</id>
+		<x>683264.3125</x>
+		<y>246991.83250000002</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-377004</id>
+		<x>682884.4066666666</x>
+		<y>246834.3633333333</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1124003</id>
+		<x>684254.185</x>
+		<y>246623.1275</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-240204</id>
+		<x>683252.5986956522</x>
+		<y>246996.12782608694</y>
+		<size>23.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-376904</id>
+		<x>682867.26</x>
+		<y>246888.82166666666</y>
+		<size>6.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-116902</id>
+		<x>683224.63</x>
+		<y>247745.93</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-595006</id>
+		<x>682866.4120000001</x>
+		<y>246137.53000000003</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-820804</id>
+		<x>683811.2676</x>
+		<y>246538.9889</y>
+		<size>1.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-977804</id>
+		<x>684104.5007999999</x>
+		<y>246454.6743333333</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-238902</id>
+		<x>683187.942</x>
+		<y>247030.05800000002</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1012007</id>
+		<x>682635.7333333334</x>
+		<y>246269.38</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1112015</id>
+		<x>684187.66</x>
+		<y>247218.72</y>
+		<size>1.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-821504</id>
+		<x>683743.9299999999</x>
+		<y>246552.285</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1112007</id>
+		<x>684209.8944444444</x>
+		<y>247230.59555555554</y>
+		<size>9.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-977904</id>
+		<x>684034.0675</x>
+		<y>246541.27541666667</y>
+		<size>24.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-821704</id>
+		<x>683889.7625</x>
+		<y>246384.83</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1202312</id>
+		<x>683645.01</x>
+		<y>246619.64</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1012114</id>
+		<x>682883.7542857142</x>
+		<y>246133.87714285715</y>
+		<size>7.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-977704</id>
+		<x>684084.2600000001</x>
+		<y>246483.5116666667</y>
+		<size>12.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-239002</id>
+		<x>683222.772</x>
+		<y>247038.06799999997</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-380802</id>
+		<x>682546.9</x>
+		<y>246622.74</y>
+		<size>1.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-380904</id>
+		<x>682554.58</x>
+		<y>246654.5</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1111907</id>
+		<x>684266.66</x>
+		<y>247260.36</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1012206</id>
+		<x>682891.9260606061</x>
+		<y>246056.78272727274</y>
+		<size>33.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1111707</id>
+		<x>684255.89</x>
+		<y>247200.32399999996</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-238604</id>
+		<x>683231.17</x>
+		<y>247103.05166666667</y>
+		<size>12.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1011807</id>
+		<x>682654.135</x>
+		<y>246214.835</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-238704</id>
+		<x>683238.8</x>
+		<y>247068.565</y>
+		<size>8.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-977604</id>
+		<x>683805.9733333334</x>
+		<y>246618.62</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-380504</id>
+		<x>682462.34</x>
+		<y>246630.99</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-380604</id>
+		<x>682450.4550000001</x>
+		<y>246648.695</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-821404</id>
+		<x>683829.53</x>
+		<y>246540.06</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1011907</id>
+		<x>682645.5422222222</x>
+		<y>246229.33222222223</y>
+		<size>9.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-238804</id>
+		<x>683186.528</x>
+		<y>247036.48599999998</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-977504</id>
+		<x>683820.51</x>
+		<y>246594.945</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-380204</id>
+		<x>682488.645</x>
+		<y>246613.565</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1420006</id>
+		<x>682824.79</x>
+		<y>246372.7225</y>
+		<size>8.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-977404</id>
+		<x>683832.7233333334</x>
+		<y>246574.91</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1125302</id>
+		<x>684369.19</x>
+		<y>246581.24</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1111507</id>
+		<x>684278.2</x>
+		<y>247157.7</y>
+		<size>1.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-380304</id>
+		<x>682495.42</x>
+		<y>246618.19</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1111407</id>
+		<x>684312.8433333334</x>
+		<y>247229.58333333334</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-380404</id>
+		<x>682473.905</x>
+		<y>246634.125</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-596004</id>
+		<x>682764.0399999999</x>
+		<y>246126.02230769236</y>
+		<size>13.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-239104</id>
+		<x>683221.9239999999</x>
+		<y>247044.57200000001</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-821803</id>
+		<x>683978.7050000001</x>
+		<y>246302.39</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-380002</id>
+		<x>682504.145</x>
+		<y>246598.675</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1012306</id>
+		<x>682881.8554545454</x>
+		<y>246056.00181818177</y>
+		<size>22.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-977103</id>
+		<x>683888.0900000001</x>
+		<y>247070.57</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1012406</id>
+		<x>682885.009090909</x>
+		<y>246055.99999999997</y>
+		<size>22.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1111103</id>
+		<x>684353.7266666667</x>
+		<y>247164.66</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-421903</id>
+		<x>684084.5092000001</x>
+		<y>247201.06533333333</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-596107</id>
+		<x>682752.15625</x>
+		<y>246141.60125</y>
+		<size>8.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-976902</id>
+		<x>683158.622</x>
+		<y>246911.088</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-596207</id>
+		<x>682757.675</x>
+		<y>246096.95500000002</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-380102</id>
+		<x>682511.88</x>
+		<y>246601.855</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-977004</id>
+		<x>683081.6372499999</x>
+		<y>246969.06875</y>
+		<size>8.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1420106</id>
+		<x>682818.8925000001</x>
+		<y>246372.32124999998</y>
+		<size>8.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-422003</id>
+		<x>684045.9</x>
+		<y>247219.146</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1420115</id>
+		<x>682816.835</x>
+		<y>246401.71</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1420504</id>
+		<x>682753.1457142858</x>
+		<y>246789.3742857143</y>
+		<size>21.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-978904</id>
+		<x>683666.7933333333</x>
+		<y>246647.94333333336</y>
+		<size>9.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1111003</id>
+		<x>684354.9254</x>
+		<y>247113.4424</y>
+		<size>1.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1110903</id>
+		<x>684202.540909091</x>
+		<y>247118.14</y>
+		<size>11.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-978804</id>
+		<x>683662.6008571429</x>
+		<y>246678.77942857146</y>
+		<size>35.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-238004</id>
+		<x>683295.46</x>
+		<y>246940.5325</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1110803</id>
+		<x>684224.74</x>
+		<y>247111.525</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-978704</id>
+		<x>683659.0375000001</x>
+		<y>246629.125</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1374812</id>
+		<x>683910.5</x>
+		<y>247248.81</y>
+		<size>1.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-237604</id>
+		<x>683317.7557142858</x>
+		<y>246837.20142857148</y>
+		<size>7.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1110707</id>
+		<x>684412.9739666666</x>
+		<y>246958.24723333333</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-978604</id>
+		<x>683654.2675000001</x>
+		<y>246627.02249999996</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1125402</id>
+		<x>684387.0533333333</x>
+		<y>246597.1333333333</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-978504</id>
+		<x>683651.87</x>
+		<y>246645.06</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-237804</id>
+		<x>683305.3899999999</x>
+		<y>246871.61714285714</y>
+		<size>7.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-237704</id>
+		<x>683325.39</x>
+		<y>246865.285</y>
+		<size>10.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-978404</id>
+		<x>683646.774</x>
+		<y>246642.694</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1126307</id>
+		<x>684255.7533333333</x>
+		<y>246842.345</y>
+		<size>6.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-238404</id>
+		<x>683308.7783333333</x>
+		<y>246952.95000000004</y>
+		<size>6.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-379207</id>
+		<x>682512.8383333333</x>
+		<y>246745.07833333337</y>
+		<size>12.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-823107</id>
+		<x>684176.295</x>
+		<y>246262.99</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-978204</id>
+		<x>683637.304</x>
+		<y>246638.838</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-822804</id>
+		<x>683731.0528571429</x>
+		<y>246494.86428571428</y>
+		<size>7.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-238104</id>
+		<x>683288.1140000001</x>
+		<y>246950.954</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1186814</id>
+		<x>682989.08</x>
+		<y>247432.58</y>
+		<size>1.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-822904</id>
+		<x>683771.9269999999</x>
+		<y>246408.778</y>
+		<size>10.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-978104</id>
+		<x>683643.765</x>
+		<y>246657.27166666664</y>
+		<size>6.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-238304</id>
+		<x>683328.8366666667</x>
+		<y>246956.1516666667</y>
+		<size>6.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-823007</id>
+		<x>684155.7375</x>
+		<y>246155.8825</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-237304</id>
+		<x>683287.5783333334</x>
+		<y>246853.15333333332</y>
+		<size>6.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-442807</id>
+		<x>684151.4066666667</x>
+		<y>247474.1416666667</y>
+		<size>6.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-112804</id>
+		<x>683512.4177571429</x>
+		<y>246906.07262857142</y>
+		<size>7.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-372802</id>
+		<x>682687.615</x>
+		<y>246498.825</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-237204</id>
+		<x>683294.996</x>
+		<y>246816.636</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-372904</id>
+		<x>682695.8200000001</x>
+		<y>246511.38</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-112704</id>
+		<x>683495.2231428571</x>
+		<y>246950.82471428573</y>
+		<size>7.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-986804</id>
+		<x>683708.84</x>
+		<y>247297.03</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-427507</id>
+		<x>684221.9975</x>
+		<y>246937.43250000002</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-390204</id>
+		<x>682531.1119</x>
+		<y>246935.93552857143</y>
+		<size>7.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-237104</id>
+		<x>683252.2213999999</x>
+		<y>246946.3176</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-396704</id>
+		<x>683883.3633333334</x>
+		<y>246470.54666666663</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-986905</id>
+		<x>683796.7314285714</x>
+		<y>247370.70857142858</y>
+		<size>7.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-373004</id>
+		<x>682715.7033333333</x>
+		<y>246517.61000000002</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-113104</id>
+		<x>683674.965</x>
+		<y>247013.18499999997</y>
+		<size>6.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-427107</id>
+		<x>684108.9974999999</x>
+		<y>247029.095</y>
+		<size>8.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-373110</id>
+		<x>682692.0766666667</x>
+		<y>246485.47666666668</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-442504</id>
+		<x>684135.9396124999</x>
+		<y>247517.456925</y>
+		<size>8.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-987004</id>
+		<x>683739.9464864865</x>
+		<y>247403.4572972974</y>
+		<size>37.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-113004</id>
+		<x>683558.075</x>
+		<y>246928.87</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-237404</id>
+		<x>683280.075</x>
+		<y>246883.39250000002</y>
+		<size>8.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-112904</id>
+		<x>683526.9716999999</x>
+		<y>246967.487825</y>
+		<size>8.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-987104</id>
+		<x>683731.068025</x>
+		<y>247412.510125</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-113404</id>
+		<x>683646.29</x>
+		<y>246967.06</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-113304</id>
+		<x>683664.58</x>
+		<y>246971.75</y>
+		<size>6.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-236704</id>
+		<x>683213.45375</x>
+		<y>246924.925</y>
+		<size>8.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-443307</id>
+		<x>684232.392225</x>
+		<y>247359.665525</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-396804</id>
+		<x>683788.1432666667</x>
+		<y>246468.17393333334</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-373410</id>
+		<x>682878.04</x>
+		<y>246551.48</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-396904</id>
+		<x>683807.1251857142</x>
+		<y>246433.9462142857</y>
+		<size>7.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-113204</id>
+		<x>683680.54</x>
+		<y>246988.825</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-986404</id>
+		<x>683717.3818181818</x>
+		<y>247212.12454545454</y>
+		<size>11.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-971604</id>
+		<x>683226.4622222222</x>
+		<y>247165.3622222222</y>
+		<size>9.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-397304</id>
+		<x>683829.28</x>
+		<y>246393.795</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-986504</id>
+		<x>683733.02</x>
+		<y>247281.42</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-236904</id>
+		<x>683248.99</x>
+		<y>246932.77636363637</y>
+		<size>11.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-971804</id>
+		<x>683232.0377777778</x>
+		<y>247168.86444444448</y>
+		<size>9.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-971904</id>
+		<x>683245.6875</x>
+		<y>247181.38</y>
+		<size>8.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-374004</id>
+		<x>683002.2239999999</x>
+		<y>246616.65</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-972004</id>
+		<x>683262.6281818182</x>
+		<y>247166.39181818187</y>
+		<size>11.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-389204</id>
+		<x>682750.56</x>
+		<y>247077.79</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-373904</id>
+		<x>683009.43</x>
+		<y>246602.508</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-389504</id>
+		<x>682695.4408833333</x>
+		<y>246969.59659999996</y>
+		<size>6.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-374104</id>
+		<x>682994.8799999999</x>
+		<y>246630.75</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-389604</id>
+		<x>682668.6366666667</x>
+		<y>246971.21</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-395703</id>
+		<x>683846.7949999999</x>
+		<y>246205.035</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-426007</id>
+		<x>684068.7166666667</x>
+		<y>246794.88</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-236304</id>
+		<x>683106.7766999999</x>
+		<y>246945.08599999998</y>
+		<size>6.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-395603</id>
+		<x>683875.1266666666</x>
+		<y>246213.65333333332</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-389404</id>
+		<x>682731.9633333333</x>
+		<y>246988.65</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-972204</id>
+		<x>683266.4236363637</x>
+		<y>247169.89818181813</y>
+		<size>11.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-236404</id>
+		<x>683066.6766666666</x>
+		<y>246881.20999999996</y>
+		<size>6.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-374204</id>
+		<x>682988.1725</x>
+		<y>246643.495</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-235704</id>
+		<x>683212.1863</x>
+		<y>246937.0650875</y>
+		<size>8.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-389804</id>
+		<x>682637.0166666667</x>
+		<y>247018.56999999998</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-972304</id>
+		<x>683283.16</x>
+		<y>247157.0</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-374304</id>
+		<x>682967.998</x>
+		<y>246681.206</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-374504</id>
+		<x>682974.7675</x>
+		<y>246668.5625</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-389704</id>
+		<x>682648.55</x>
+		<y>246996.83</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-374404</id>
+		<x>682961.1575</x>
+		<y>246693.6125</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-972501</id>
+		<x>683288.6399999999</x>
+		<y>247048.9555</y>
+		<size>20.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-972604</id>
+		<x>683332.27</x>
+		<y>247100.55419354842</y>
+		<size>31.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-374604</id>
+		<x>683024.1955555555</x>
+		<y>246745.25</y>
+		<size>9.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-389904</id>
+		<x>682625.9450000001</x>
+		<y>247039.125</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-390004</id>
+		<x>682640.515</x>
+		<y>247029.17</y>
+		<size>6.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-250502</id>
+		<x>682918.54</x>
+		<y>247371.02000000002</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-250602</id>
+		<x>682906.235</x>
+		<y>247383.325</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-394304</id>
+		<x>683789.746</x>
+		<y>246446.376</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-375004</id>
+		<x>682979.8476470588</x>
+		<y>246737.09647058827</y>
+		<size>17.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-394404</id>
+		<x>683775.5762</x>
+		<y>246472.56835000002</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-972904</id>
+		<x>683315.375</x>
+		<y>247111.36000000002</y>
+		<size>18.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-374905</id>
+		<x>683069.69</x>
+		<y>246719.58055555556</y>
+		<size>18.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-429407</id>
+		<x>684264.1525</x>
+		<y>247011.135</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-250802</id>
+		<x>682884.335</x>
+		<y>247405.77000000002</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-394504</id>
+		<x>683765.3483000001</x>
+		<y>246490.03993333332</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-973304</id>
+		<x>683199.3828571428</x>
+		<y>247128.86285714287</y>
+		<size>7.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-973204</id>
+		<x>683240.59</x>
+		<y>247103.98857142855</y>
+		<size>7.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-429107</id>
+		<x>684395.3664</x>
+		<y>246949.2617</y>
+		<size>1.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-394704</id>
+		<x>683704.065</x>
+		<y>246490.76</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-250702</id>
+		<x>682895.035</x>
+		<y>247394.71000000002</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-973104</id>
+		<x>683270.085</x>
+		<y>247147.14750000002</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-375104</id>
+		<x>682945.6915</x>
+		<y>246742.29940000002</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-973514</id>
+		<x>683328.5388</x>
+		<y>246988.1718</y>
+		<size>1.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-430007</id>
+		<x>684259.7933333333</x>
+		<y>246943.80333333334</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-394804</id>
+		<x>683718.8</x>
+		<y>246497.71</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-134804</id>
+		<x>683521.7959999999</x>
+		<y>247760.892</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-111107</id>
+		<x>683949.2733333333</x>
+		<y>246889.36000000002</y>
+		<size>9.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-375304</id>
+		<x>682951.1718181818</x>
+		<y>246834.50181818177</y>
+		<size>11.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-111307</id>
+		<x>683928.5099999999</x>
+		<y>246806.96</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-394904</id>
+		<x>683740.4650000001</x>
+		<y>246507.87</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-249904</id>
+		<x>682838.8725</x>
+		<y>247259.2125</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-973404</id>
+		<x>683201.4400000001</x>
+		<y>247122.68571428573</y>
+		<size>7.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-429907</id>
+		<x>684273.85</x>
+		<y>246923.23</y>
+		<size>1.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-375404</id>
+		<x>682998.3800000001</x>
+		<y>246832.675</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-395004</id>
+		<x>683738.855</x>
+		<y>246538.64500000002</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-135104</id>
+		<x>683528.0733333332</x>
+		<y>247658.23333333337</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-375704</id>
+		<x>683022.4338461539</x>
+		<y>246813.1476923077</y>
+		<size>26.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-429707</id>
+		<x>684320.8300000001</x>
+		<y>246941.55333333334</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-816206</id>
+		<x>683777.6299999998</x>
+		<y>246052.9595348838</y>
+		<size>43.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-250304</id>
+		<x>682906.7328571428</x>
+		<y>247370.35142857142</y>
+		<size>7.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-111407</id>
+		<x>683949.7583333333</x>
+		<y>246943.39500000002</y>
+		<size>12.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-375804</id>
+		<x>683012.2</x>
+		<y>246867.52</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-429807</id>
+		<x>684337.2949999999</x>
+		<y>246922.66499999998</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-395104</id>
+		<x>683749.04</x>
+		<y>246519.32</y>
+		<size>1.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-973714</id>
+		<x>683330.03935</x>
+		<y>247027.47879999998</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-135004</id>
+		<x>683526.1666666666</x>
+		<y>247689.53</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-375604</id>
+		<x>683025.2660000001</x>
+		<y>246787.02199999997</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-111604</id>
+		<x>683845.94</x>
+		<y>247083.88</y>
+		<size>1.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-111504</id>
+		<x>683835.7849999999</x>
+		<y>247092.99</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-250204</id>
+		<x>682869.8057142857</x>
+		<y>247407.97</y>
+		<size>7.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-816306</id>
+		<x>683776.92</x>
+		<y>246158.16928571434</y>
+		<size>28.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-428507</id>
+		<x>684372.085</x>
+		<y>246845.415</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-111804</id>
+		<x>683883.0</x>
+		<y>247051.04</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-428407</id>
+		<x>684353.365</x>
+		<y>246832.335</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-376304</id>
+		<x>682686.6799999999</x>
+		<y>246703.615</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-112004</id>
+		<x>683911.875</x>
+		<y>247024.81166666665</y>
+		<size>6.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-112104</id>
+		<x>683940.535</x>
+		<y>246999.375</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1277414</id>
+		<x>683310.6799999999</x>
+		<y>247805.58000000002</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-815407</id>
+		<x>683929.37</x>
+		<y>246109.85666666666</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-376504</id>
+		<x>682634.735</x>
+		<y>246675.915</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-376404</id>
+		<x>682651.96</x>
+		<y>246684.9</y>
+		<size>1.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-815507</id>
+		<x>683949.8266666667</x>
+		<y>246110.95333333334</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-815512</id>
+		<x>683951.47</x>
+		<y>246111.45</y>
+		<size>1.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-251002</id>
+		<x>682861.5052</x>
+		<y>247429.4496</y>
+		<size>1.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-112304</id>
+		<x>683956.4325</x>
+		<y>246982.3975</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-250902</id>
+		<x>682872.51</x>
+		<y>247418.635</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-446407</id>
+		<x>684059.2009999999</x>
+		<y>247576.65805454543</y>
+		<size>11.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-112404</id>
+		<x>683860.96</x>
+		<y>247070.63</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-394104</id>
+		<x>683816.6616666667</x>
+		<y>246397.12166666667</y>
+		<size>6.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-815207</id>
+		<x>683912.125</x>
+		<y>246104.21500000003</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-112504</id>
+		<x>683486.4195625001</x>
+		<y>246986.3222</y>
+		<size>8.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1397104</id>
+		<x>683177.695</x>
+		<y>247694.865</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-974604</id>
+		<x>683241.358</x>
+		<y>247776.97999999998</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-815307</id>
+		<x>683956.06</x>
+		<y>246118.39500000002</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-814807</id>
+		<x>683897.1499999999</x>
+		<y>246158.55</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-91307</id>
+		<x>683889.991</x>
+		<y>245936.36299999995</y>
+		<size>10.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1006504</id>
+		<x>682712.8991800001</x>
+		<y>246887.72722</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-814707</id>
+		<x>683847.35</x>
+		<y>246140.23</y>
+		<size>1.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-136604</id>
+		<x>683620.315</x>
+		<y>247597.48500000002</y>
+		<size>8.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-91207</id>
+		<x>683835.7279999999</x>
+		<y>245927.52999999997</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-446507</id>
+		<x>684044.2066666667</x>
+		<y>247543.33</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-814607</id>
+		<x>683820.7128571429</x>
+		<y>246074.85857142854</y>
+		<size>7.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-815007</id>
+		<x>683879.5433333333</x>
+		<y>246093.62</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1005902</id>
+		<x>682504.5099999999</x>
+		<y>246583.94333333333</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1005807</id>
+		<x>682553.938</x>
+		<y>246777.22999999998</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1005707</id>
+		<x>682523.7616666666</x>
+		<y>246746.63833333334</y>
+		<size>6.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-814504</id>
+		<x>683806.9616666667</x>
+		<y>245996.78833333333</y>
+		<size>6.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1005606</id>
+		<x>682460.1593333334</x>
+		<y>246693.2493333333</y>
+		<size>15.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-827507</id>
+		<x>684184.27</x>
+		<y>246524.43</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-370007</id>
+		<x>682617.77</x>
+		<y>246283.89500000002</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1007507</id>
+		<x>682720.6357142858</x>
+		<y>246677.80428571426</y>
+		<size>7.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-430207</id>
+		<x>684213.3955555555</x>
+		<y>247009.03999999998</y>
+		<size>9.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1007607</id>
+		<x>682701.0700000001</x>
+		<y>246459.05833333335</y>
+		<size>6.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-249604</id>
+		<x>682879.35</x>
+		<y>247472.5</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-249804</id>
+		<x>682857.692</x>
+		<y>247297.17</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-135604</id>
+		<x>683529.375</x>
+		<y>247725.425</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-430403</id>
+		<x>684277.2966666667</x>
+		<y>247086.85</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-135204</id>
+		<x>683531.815</x>
+		<y>247690.875</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1007307</id>
+		<x>682802.6583333333</x>
+		<y>246700.36</y>
+		<size>6.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-369703</id>
+		<x>682647.3333333334</x>
+		<y>246243.88</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-249404</id>
+		<x>682869.0299750001</x>
+		<y>247476.288425</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1007107</id>
+		<x>682786.19</x>
+		<y>246732.168</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-369907</id>
+		<x>682592.7733333333</x>
+		<y>246277.68999999997</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1007207</id>
+		<x>682820.46</x>
+		<y>246665.77000000002</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-369803</id>
+		<x>682640.375</x>
+		<y>246272.435</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-249504</id>
+		<x>682863.8</x>
+		<y>247466.44</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-430503</id>
+		<x>684252.2888888889</x>
+		<y>247085.00555555554</y>
+		<size>9.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1007004</id>
+		<x>682821.715</x>
+		<y>246980.86</y>
+		<size>8.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-430707</id>
+		<x>684201.5885666666</x>
+		<y>247060.84456666667</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-370507</id>
+		<x>682745.015</x>
+		<y>246191.61</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-136004</id>
+		<x>683524.62</x>
+		<y>247798.87</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1006904</id>
+		<x>682817.1100000001</x>
+		<y>247014.25857142863</y>
+		<size>7.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-248904</id>
+		<x>682965.48</x>
+		<y>247695.97666666668</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-135704</id>
+		<x>683528.0733333334</x>
+		<y>247745.55999999997</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-430907</id>
+		<x>684249.57</x>
+		<y>247073.27</y>
+		<size>1.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1006804</id>
+		<x>682707.688</x>
+		<y>247038.038</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-135804</id>
+		<x>683527.46</x>
+		<y>247765.64</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1006604</id>
+		<x>682693.92604</x>
+		<y>246924.75751999998</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-135904</id>
+		<x>683525.74</x>
+		<y>247787.38</y>
+		<size>1.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-110204</id>
+		<x>683734.8223529411</x>
+		<y>246618.29235294115</y>
+		<size>17.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1006704</id>
+		<x>682676.0366666667</x>
+		<y>247021.69999999998</y>
+		<size>6.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-246702</id>
+		<x>682806.04</x>
+		<y>247571.28999999998</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-371104</id>
+		<x>682650.7379999999</x>
+		<y>246600.44</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-388404</id>
+		<x>682924.36</x>
+		<y>246960.06999999998</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-371004</id>
+		<x>682637.2599999999</x>
+		<y>246637.24666666667</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-388602</id>
+		<x>682775.217142857</x>
+		<y>246937.93714285715</y>
+		<size>7.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-246602</id>
+		<x>682814.5700000001</x>
+		<y>247584.83000000002</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1376804</id>
+		<x>683724.2142857143</x>
+		<y>247309.1814285714</y>
+		<size>7.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-246502</id>
+		<x>682825.085</x>
+		<y>247600.33000000002</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-388304</id>
+		<x>682961.01</x>
+		<y>246986.585</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1376912</id>
+		<x>683743.41</x>
+		<y>247351.21</y>
+		<size>1.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-370804</id>
+		<x>682608.78255</x>
+		<y>246565.028</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1376604</id>
+		<x>683725.63</x>
+		<y>247291.04</y>
+		<size>1.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-246204</id>
+		<x>682610.948</x>
+		<y>247157.018</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-371604</id>
+		<x>682692.7999999999</x>
+		<y>246584.09</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-107302</id>
+		<x>683002.26</x>
+		<y>247698.93</y>
+		<size>1.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-371704</id>
+		<x>682728.36</x>
+		<y>246595.66</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-388904</id>
+		<x>682787.54</x>
+		<y>247015.55666666667</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-389107</id>
+		<x>682795.045</x>
+		<y>247079.73</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-371504</id>
+		<x>682718.60625</x>
+		<y>246600.09250000003</y>
+		<size>8.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-139104</id>
+		<x>683829.85</x>
+		<y>247237.805</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1376704</id>
+		<x>683735.4581818181</x>
+		<y>247309.69363636366</y>
+		<size>11.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1394004</id>
+		<x>683122.2899999999</x>
+		<y>247281.89</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-107402</id>
+		<x>682991.33</x>
+		<y>247719.43</y>
+		<size>1.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-389004</id>
+		<x>682781.7</x>
+		<y>247085.09</y>
+		<size>1.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-246104</id>
+		<x>682585.7216666667</x>
+		<y>247126.61000000002</y>
+		<size>6.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-388704</id>
+		<x>682781.3814285714</x>
+		<y>247001.08</y>
+		<size>7.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-139004</id>
+		<x>683773.692</x>
+		<y>247117.892</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-245904</id>
+		<x>682616.6</x>
+		<y>247108.26333333334</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-246004</id>
+		<x>682583.4383333334</x>
+		<y>247090.345</y>
+		<size>6.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-371404</id>
+		<x>682679.1799999999</x>
+		<y>246587.12</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-138904</id>
+		<x>683737.305</x>
+		<y>247191.78166666665</y>
+		<size>6.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-1393904</id>
+		<x>683161.195</x>
+		<y>247291.975</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-245804</id>
+		<x>682601.45</x>
+		<y>247089.57</y>
+		<size>1.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-388804</id>
+		<x>682767.44</x>
+		<y>247005.35</y>
+		<size>1.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-371204</id>
+		<x>682664.0433333333</x>
+		<y>246634.06999999998</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-988204</id>
+		<x>683656.77</x>
+		<y>247312.97</y>
+		<size>1.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-371304</id>
+		<x>682698.9</x>
+		<y>246648.77833333335</y>
+		<size>6.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-138804</id>
+		<x>683724.0733333334</x>
+		<y>247229.94666666666</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-988104</id>
+		<x>683645.05</x>
+		<y>247322.08000000002</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-247804</id>
+		<x>682841.1300000001</x>
+		<y>247576.08999999997</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-372207</id>
+		<x>682767.8300000001</x>
+		<y>246437.895</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-247704</id>
+		<x>682807.4299999999</x>
+		<y>247515.83571428567</y>
+		<size>14.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-988004</id>
+		<x>683631.67</x>
+		<y>247332.865</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-387504</id>
+		<x>682643.9733333333</x>
+		<y>246932.1</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-397404</id>
+		<x>683758.935</x>
+		<y>246522.84</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-987804</id>
+		<x>683640.992</x>
+		<y>247341.08029999997</y>
+		<size>4.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-397504</id>
+		<x>683751.8049999999</x>
+		<y>246536.70500000002</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-987704</id>
+		<x>683654.1324799999</x>
+		<y>247328.1939</y>
+		<size>10.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-398204</id>
+		<x>683851.2949999999</x>
+		<y>246523.02125</y>
+		<size>8.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-987604</id>
+		<x>683656.61733</x>
+		<y>247331.82939</y>
+		<size>10.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-387904</id>
+		<x>682718.74</x>
+		<y>246861.8</y>
+		<size>1.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-247104</id>
+		<x>682759.0223076922</x>
+		<y>247544.6276923077</y>
+		<size>13.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-987504</id>
+		<x>683672.67</x>
+		<y>247318.84</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-387604</id>
+		<x>682603.4026315791</x>
+		<y>246910.897368421</y>
+		<size>19.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-387704</id>
+		<x>682692.2</x>
+		<y>246913.26333333334</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-372407</id>
+		<x>682740.42</x>
+		<y>246508.59333333335</y>
+		<size>3.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-987304</id>
+		<x>683735.2868799999</x>
+		<y>247375.25064000004</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-246904</id>
+		<x>682758.47802</x>
+		<y>247558.04706</y>
+		<size>5.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-987204</id>
+		<x>683734.1296000001</x>
+		<y>247388.0523</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-372307</id>
+		<x>682753.4110000001</x>
+		<y>246474.354</y>
+		<size>10.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-246802</id>
+		<x>682791.77</x>
+		<y>247548.82</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>sp-387804</id>
+		<x>682707.165</x>
+		<y>246884.96000000002</y>
+		<size>2.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>gp-5</id>
+		<x>684056.392</x>
+		<y>247502.2459</y>
+		<size>96.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>gp-6</id>
+		<x>683842.325</x>
+		<y>246247.198</y>
+		<size>156.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>gp-15</id>
+		<x>684228.2518</x>
+		<y>246547.8636</y>
+		<size>18.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>gp-24</id>
+		<x>682815.9315</x>
+		<y>247594.6096</y>
+		<size>11.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>gp-25</id>
+		<x>682756.3278</x>
+		<y>247513.4227</y>
+		<size>40.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>gp-33</id>
+		<x>682880.8761</x>
+		<y>247391.2805</y>
+		<size>110.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>gp-38</id>
+		<x>683792.3445</x>
+		<y>247020.9473</y>
+		<size>502.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>gp-51</id>
+		<x>682864.451</x>
+		<y>246860.233</y>
+		<size>266.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>gp-62</id>
+		<x>682815.232</x>
+		<y>246705.627</y>
+		<size>44.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>gp-82</id>
+		<x>682898.6817</x>
+		<y>246698.1237</y>
+		<size>259.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>gp-85</id>
+		<x>682915.1212</x>
+		<y>247580.2236</y>
+		<size>218.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>gp-86</id>
+		<x>682606.3929</x>
+		<y>246545.7385</y>
+		<size>8.0</size>
+	</parkinglot>
+
+	<parkinglot>
+		<id>gp-89</id>
+		<x>683235.3419</x>
+		<y>247643.7559</y>
+		<size>450.0</size>
+	</parkinglot>
+
+</parkinglots>

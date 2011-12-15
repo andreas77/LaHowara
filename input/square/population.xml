@@ -1,0 +1,29 @@
+<agents>
+        <agent>	
+        		<id>0</id>
+        		<tripStartTime>600</tripStartTime>
+        		<route_to>null</route_to>	
+        		<actType>work</actType>
+        
+        		<actDur>1000</actDur>
+        		<route_away>11 9 6 3 1</route_away>
+        </agent>
+        <agent>	
+		<id>1</id>
+		<tripStartTime>200</tripStartTime>
+		<route_to>1 3 6</route_to>	
+		<actType>shop</actType>
+
+		<actDur>300</actDur>
+		<route_away>6 9 11</route_away>	
+        </agent>       
+        <agent>	
+		<id>2</id>
+		<tripStartTime>120</tripStartTime>
+		<route_to>1 3 6</route_to>	
+		<actType>shop</actType>
+		
+		<actDur>300</actDur>
+		<route_away>6 9 11</route_away>		
+        </agent>       
+</agents>

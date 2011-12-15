@@ -1,0 +1,231 @@
+<nodes>
+	<node>
+		<id>0</id>
+		<x>0.0</x>
+		<y>0.0</y>
+	</node>
+
+	<node>
+		<id>1</id>
+		<x>0.0</x>
+		<y>100.0</y>
+	</node>
+
+	<node>
+		<id>2</id>
+		<x>0.0</x>
+		<y>200.0</y>
+	</node>
+
+	<node>
+		<id>3</id>
+		<x>0.0</x>
+		<y>300.0</y>
+	</node>
+
+	<node>
+		<id>4</id>
+		<x>0.0</x>
+		<y>400.0</y>
+	</node>
+
+	<node>
+		<id>5</id>
+		<x>0.0</x>
+		<y>500.0</y>
+	</node>
+
+	<node>
+		<id>6</id>
+		<x>100.0</x>
+		<y>0.0</y>
+	</node>
+
+	<node>
+		<id>7</id>
+		<x>100.0</x>
+		<y>100.0</y>
+	</node>
+
+	<node>
+		<id>8</id>
+		<x>100.0</x>
+		<y>200.0</y>
+	</node>
+
+	<node>
+		<id>9</id>
+		<x>100.0</x>
+		<y>300.0</y>
+	</node>
+
+	<node>
+		<id>10</id>
+		<x>100.0</x>
+		<y>400.0</y>
+	</node>
+
+	<node>
+		<id>11</id>
+		<x>100.0</x>
+		<y>500.0</y>
+	</node>
+
+	<node>
+		<id>12</id>
+		<x>200.0</x>
+		<y>0.0</y>
+	</node>
+
+	<node>
+		<id>13</id>
+		<x>200.0</x>
+		<y>100.0</y>
+	</node>
+
+	<node>
+		<id>14</id>
+		<x>200.0</x>
+		<y>200.0</y>
+	</node>
+
+	<node>
+		<id>15</id>
+		<x>200.0</x>
+		<y>300.0</y>
+	</node>
+
+	<node>
+		<id>16</id>
+		<x>200.0</x>
+		<y>400.0</y>
+	</node>
+
+	<node>
+		<id>17</id>
+		<x>200.0</x>
+		<y>500.0</y>
+	</node>
+
+	<node>
+		<id>18</id>
+		<x>300.0</x>
+		<y>0.0</y>
+	</node>
+
+	<node>
+		<id>19</id>
+		<x>300.0</x>
+		<y>100.0</y>
+	</node>
+
+	<node>
+		<id>20</id>
+		<x>300.0</x>
+		<y>200.0</y>
+	</node>
+
+	<node>
+		<id>21</id>
+		<x>300.0</x>
+		<y>300.0</y>
+	</node>
+
+	<node>
+		<id>22</id>
+		<x>300.0</x>
+		<y>400.0</y>
+	</node>
+
+	<node>
+		<id>23</id>
+		<x>300.0</x>
+		<y>500.0</y>
+	</node>
+
+	<node>
+		<id>24</id>
+		<x>400.0</x>
+		<y>0.0</y>
+	</node>
+
+	<node>
+		<id>25</id>
+		<x>400.0</x>
+		<y>100.0</y>
+	</node>
+
+	<node>
+		<id>26</id>
+		<x>400.0</x>
+		<y>200.0</y>
+	</node>
+
+	<node>
+		<id>27</id>
+		<x>400.0</x>
+		<y>300.0</y>
+	</node>
+
+	<node>
+		<id>28</id>
+		<x>400.0</x>
+		<y>400.0</y>
+	</node>
+
+	<node>
+		<id>29</id>
+		<x>400.0</x>
+		<y>500.0</y>
+	</node>
+
+	<node>
+		<id>30</id>
+		<x>500.0</x>
+		<y>0.0</y>
+	</node>
+
+	<node>
+		<id>31</id>
+		<x>500.0</x>
+		<y>100.0</y>
+	</node>
+
+	<node>
+		<id>32</id>
+		<x>500.0</x>
+		<y>200.0</y>
+	</node>
+
+	<node>
+		<id>33</id>
+		<x>500.0</x>
+		<y>300.0</y>
+	</node>
+
+	<node>
+		<id>34</id>
+		<x>500.0</x>
+		<y>400.0</y>
+	</node>
+
+	<node>
+		<id>35</id>
+		<x>500.0</x>
+		<y>500.0</y>
+	</node>
+
+	<node>
+		<id>-1</id>
+		<x>-100.0</x>
+		<y>-100.0</y>
+	</node>
+
+	<node>
+		<id>9999999</id>
+		<x>600.0</x>
+		<y>600.0</y>
+	</node>
+
+</nodes>
+

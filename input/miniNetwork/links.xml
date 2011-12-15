@@ -1,0 +1,89 @@
+<links>        
+        <link>	
+              <id>l1_13</id>
+              <fromNode>node11</fromNode>
+              <toNode>n13</toNode>
+        </link>
+        <link>	
+              <id>l1_31</id>
+              <fromNode>n13</fromNode>
+              <toNode>node11</toNode>
+        </link>
+
+        <link>	
+              <id>l1_23</id>
+              <fromNode>n12</fromNode>
+              <toNode>n13</toNode>
+        </link>
+        <link>	
+              <id>l1_32</id>
+              <fromNode>n13</fromNode>
+              <toNode>n12</toNode>
+        </link>
+
+        <link>	
+              <id>l1_43</id>
+              <fromNode>n14</fromNode>
+              <toNode>n13</toNode>
+        </link>
+        <link>	
+              <id>l1_34</id>
+              <fromNode>n13</fromNode>
+              <toNode>n14</toNode>
+        </link>
+
+        <link>	
+              <id>l1_53</id>
+              <fromNode>n15</fromNode>
+              <toNode>n13</toNode>
+        </link>
+        <link>	
+              <id>l1_35</id>
+              <fromNode>n13</fromNode>
+              <toNode>n15</toNode>
+        </link>
+        
+        <link>	
+              <id>l2_13</id>
+              <fromNode>21</fromNode>
+              <toNode>23</toNode>
+        </link>
+        <link>	
+              <id>l2_31</id>
+              <fromNode>23</fromNode>
+              <toNode>21</toNode>
+        </link>
+
+        <link>	
+              <id>l2_23</id>
+              <fromNode>22</fromNode>
+              <toNode>23</toNode>
+        </link>
+        <link>	
+              <id>l2_32</id>
+              <fromNode>23</fromNode>
+              <toNode>22</toNode>
+        </link>
+
+        <link>	
+              <id>l2_43</id>
+              <fromNode>24</fromNode>
+              <toNode>23</toNode>
+        </link>
+        <link>	
+              <id>l2_34</id>
+              <fromNode>23</fromNode>
+              <toNode>24</toNode>
+        </link>
+
+        <link>	
+              <id>l2_53</id>
+              <fromNode>25</fromNode>
+              <toNode>23</toNode>
+        </link>
+        <link>	
+              <id>l2_35</id>
+              <fromNode>23</fromNode>
+              <toNode>25</toNode>
+        </link>
+</links>

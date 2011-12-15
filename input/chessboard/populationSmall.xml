@@ -1,0 +1,37 @@
+<agents>
+	<agent>
+		<id>0#-8841611526406057960</id>
+		<tripStartTime>0.0</tripStartTime>
+		<route_to>-1 0 1 7 8 14</route_to>
+		<actType>s</actType>
+		<actDur>1800.0</actDur>
+		<route_away>14 15 21 22 28 29 35 9999999</route_away>
+	</agent>
+
+	<agent>
+		<id>1#-6791017654137906270</id>
+		<tripStartTime>5.0</tripStartTime>
+		<route_to>9999999 35 29 28 22 21 15 14</route_to>
+		<actType>s</actType>
+		<actDur>1800.0</actDur>
+		<route_away>14 8 7 1 0 -1</route_away>
+	</agent>
+
+	<agent>
+		<id>2#6915810122660015811</id>
+		<tripStartTime>10.0</tripStartTime>
+		<route_to>-1 0 1 7 8 14</route_to>
+		<actType>s</actType>
+		<actDur>1800.0</actDur>
+		<route_away>14 15 21 22 28 29 35 9999999</route_away>
+	</agent>
+
+	<agent>
+		<id>3#9222875157662466762</id>
+		<tripStartTime>15.0</tripStartTime>
+		<route_to>9999999 35 29 28 22 21 15 14</route_to>
+		<actType>s</actType>
+		<actDur>1800.0</actDur>
+		<route_away>14 8 7 1 0 -1</route_away>
+	</agent>
+</agents>

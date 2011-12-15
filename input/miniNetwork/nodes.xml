@@ -1,0 +1,65 @@
+<nodes>
+        <node>
+            <id>n1</id>
+            <x>0.0</x>
+            <y>600.0</y>
+        </node>
+        <node>
+              <id>node11</id>
+              <x>0.0</x>
+              <y>-300.0</y>
+        </node>
+        <node>
+              <id>n12</id>
+              <x>-300.0</x>
+              <y>0.0</y>
+        </node>
+        <node>
+              <id>n13</id>
+              <x>0.0</x>
+              <y>0.0</y>
+        </node>
+        <node>
+              <id>n14</id>
+              <x>300.0</x>
+              <y>0.0</y>
+        </node>
+        <node>
+              <id>n15</id>
+              <x>0.0</x>
+              <y>300.0</y>
+        </node>
+        
+        <node>
+            <id>2</id>
+            <x>700.0</x>
+            <y>900.0</y>
+        </node>
+        <node>
+              <id>21</id>
+              <x>700.0</x>
+              <y>-300.0</y>
+        </node>
+        <node>
+              <id>22</id>
+              <x>400.0</x>
+              <y>0.0</y>
+        </node>
+        <node>
+              <id>23</id>
+              <x>700.0</x>
+              <y>0.0</y>
+        </node>
+        <node>
+              <id>24</id>
+              <x>1000.0</x>
+              <y>0.0</y>
+        </node>
+        <node>
+              <id>25</id>
+              <x>700.0</x>
+              <y>300.0</y>
+        </node>
+
+
+</nodes>

@@ -1,0 +1,48 @@
+Parking Search Simulation - Research Plan
+
+
+Document Version: 2.3 (2 major / 3 minor)
+Group Name: LaHowara & Commander Spock
+Group members (alphabetical): Horni Andreas, Montini Lara, Waraich Rashid
+
+
+General Introduction
+
+Parking search induced traffic is substantial [1] and an ample body of parking literature (for a review  see e.g., [2]) and operational models exists e.g., [3,4,5,6]. Our simulation, an agent-based simulation, will be based on PARKAGENT [3].
+
+As the group members are involved in MATSim development, the hope is that this project’s findings, on a highly aggregate level, also bring forward the MATSim parking search module [7,8].
+
+
+Fundamental Questions
+
+The basic goal of this project is simulation-based generation of a macroscopic diagram (loosely related to the fundamental diagram of traffic flow (see e.g., [9])) specifying the relation between the key variables average parking search time and parking space density. Fundamental questions concern its functional form and dependency on the two basic decision principles optimizing and satisficing. As an interesting minor point, calculation of quantitative difference between optimizing and satisficing parking behavior might be possible.  
+ 
+
+Research Methods - Methodology
+
+The following three main differences between our model and PARKAGENT will exist: First, as PARKAGENT is highly complex, our simulation is realistically planned to be a stripped down version; in the first instance, it will only consider travel and search time costs, whereas further choice determinants, such as monetary costs are neglected.  As a future task, such determinants could be incorporated and calibrated based on a recent survey [10]. Second, due to personal interests, parking for shopping activities, not residential evening parking, is investigated. Long-term learning mechanisms will not be considered in this context. Third, the somewhat ArcGis-specific transport simulation of [3/p.432] will be replaced by a cellular automaton similar as for example done in [6].
+
+The investigation will be based on a synthetic small-scale scenario. 
+
+Probabilistic decision making leads to stochastic simulation making ensemble runs necessary.
+
+In the future, the model could be calibrated and validated by GPS data currently surveyed at the authors’ institute. 
+
+
+Expected Results
+
+A non-linear relation between average search-time and parking space density and strong dependency on weights (i.e., shares) of the different decision principles is expected.
+
+
+References 
+
+[1]: Shoup, D. (2005) The High Cost of Free Parking, Planners Press, Chicago.
+[2]: Young, W., M. Thompson and M. A. P. Taylor (1991) A Review of Urban Car Parking Models, Transport Reviews, 11 (1) 63-84.
+[3]: Benenson, I., K. Martens and S. Birfir (2008) PARKAGENT: an agent-based model of parking in the city, Computers, Environment and Urban Systems, 32 (6) 431-439.
+[4]: Thompson, R. G. and A. J. Richardson (1998) A Parking Search Model, Transportation Research Part A: Policy and Practice, 32 (3) 159-170.
+[5]: Gallo, M., L. D’Acierno and B. Montella (2011) A Multilayer Model to Simulate Cruising for Parking in Urban Areas, Transport Policy, 18 (5) 735-744.
+[6]: Dieussaert, K., K. Aerts, T. Steenberghen, S. Maerivoet and K. Spitaels (2009) SUSTAPARK: An Agent-Based Model for Simulating Parking Search, paper presented at the AGILE International Conference on Geographic Information Science, Hannover.
+[7]: MATSim-T (2011) Multi Agent Transportation Simulation Toolkit, webpage, http://www.matsim.org. 
+[8]: Waraich, R. A. and K. W. Axhausen (2011) An Agent-Based Parking Choice Model, Working Paper, 696, IVT, ETH Zurich, Zurich, August 2011.
+[9]: Nagel, K. and M. Schreckenberg (1992) A cellular automaton for freeway traffic, Journal de Physique I, 2 (1992) 2221-2229.
+[10]: Weis, C., M. Vrtic, P. Widmer and K.W. Axhausen (2011) Influence of Parking on Location and Mode Choice: A Stated Choice Survey, Arbeitsberichte Verkehrs- und Raumplanung, 684, IVT, ETH Zürich, Zürich. 

@@ -1,0 +1,73 @@
+<config>
+        <param>
+	 <name>populationFile</name>
+	 <value>input/zurichCity/population.xml</value>
+        </param>
+
+        <param>
+	 <name>nodesFile</name>
+	 <value>input/zurichCity/nodes.xml</value>
+        </param>
+        
+        <param>
+	<name>linksFile</name>
+	<value>input/zurichCity/links.xml</value>
+        </param>
+
+        <param>
+	 <name>parkingLotsFile</name>
+	 <value>input/zurichCity/parkingLots.xml</value>
+        </param>
+        <param>
+        	<name>timeStep</name>
+        	<value>10</value>
+        </param>
+         <param>
+                <name>outfolder</name>
+                <value>output/</value>
+        </param>
+         <param>
+                <name>startTime</name>
+                <value>61200.0</value>
+        </param>
+        <param>
+                <name>endTime</name>
+                <value>64800.0</value>
+        </param>
+       <param>
+             <name>showSimulation</name>
+             <value>false</value>
+       </param>
+       <param>
+            <name>createVideo</name>
+            <value>false</value>
+       </param>
+       <param>
+           <name>scaleParkingsSizes</name>
+           <value>1.0</value>
+       </param>
+       <!-- 5948 / (5.0 *(3348 + 2178) + 1.0 * (5948)) = 0.177 -->
+        <param>
+          <name>privateParkingShare</name>
+          <value>0.177</value>
+       </param>
+      <param>
+      <!-- using a 10% MATSim scenario -->
+         <name>scalePopulation</name> 
+         <value>10.0</value>
+       </param>
+      <param>
+             <name>searchModels</name>
+             <value>
+	    <model>
+	           <type>ParkingDecisionQuadratic</type>
+	           <share>100</share>
+	           <initialAcceptanceRadius>200.0</initialAcceptanceRadius>
+	           <slope>0.003</slope>
+	           <timeToDoubleRadius>300</timeToDoubleRadius>
+	           <minStartSearchRadius>30.0</minStartSearchRadius>
+	           <maxStartSearchRadius>150.0</maxStartSearchRadius>
+	     </model>
+             </value>
+      </param>
+</config>

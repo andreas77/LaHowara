@@ -1,0 +1,34 @@
+
+
+
+===================
+parkingLots.xml (public parkings)
+===================
+
+total number of street parking in the scenario:3348
+total number of garage parking in the scenario:2178
+
+=> changes bzgl. version 15-Nov: "parkingLot[s]" => "parkinglot[s]"; korrektur missing "/" in closing tag.
+====================
+Szenario
+=====================
+	private static double radiusInMetersOfStudyArea = 1000;
+	private static Coord studyAreaCenter = ParkingHerbieControler.getCoordinatesQuaiBridgeZH();
+================
+private parkings
+================
+total number of outdoor private parking in scenario area: 5948.0
+indoor parkings (mit hauptnutzung des gebaeudes):
+null	87.0 (unbekannte hauptnutzng)
+Pendent	3.0
+Produktion	136.0
+Verkauf	447.0
+Nicht	5.0
+Gemischte	3.0
+Büro	620.0
+Zu	1.0
+Lager	733.0
+Sondernutzung	159.0
+Parkierung	70.0
+Wohnen	745.0
+=======================
